@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debesh Nayak</h1>
 <h3 align="center">A passionate Programmer And Learning Ethical Hacker , Open Source Intelligence</h3>
 
-<img align="right"alt="coding"width=400"src="https://images.app.goo.gl/MXV9SpLjcGt1mWQH6">
+<img align="right"alt="coding"width=400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshcodes09&label=Profile%20views&color=0e75b6&style=flat" alt="debeshcodes09" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nayakdebesh925@gmail.com**
 
-- ⚡ Fact **I AM CONSIDERED AND CONFIGURENT WHEN IT COMES TO WORK**
+- ⚡ Fact   **I AM CONSIDERED AND CONFIGURENT WHEN IT COMES TO WORK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
