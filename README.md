@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Debesh Nayak</h1>
 <h3 align="center">A passionate Programmer And Learning Ethical Hacker , Open Source Intelligence</h3>
 
+Im Having some issues with this gif if anyone knows contact me
 <img align="right"alt="debeshcodes09"width=400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshcodes09&label=Profile%20views&color=0e75b6&style=flat" alt="debeshcodes09" /> </p>
 FOLLOW AND DO SUPPORT
-YOU CAN FREELY FORK IT IF YOU WANT 
-PLEASE JUST GIVE A STAR IF YOU WANNA FORK
+YOU CAN FREELY FORK THIS REPOSITORY NO ISSUES 😅
+
+DONT FORGET TO GIVE A STAR DURING FORK ⭐
 
 
 - 🔭 I’m currently working on **ATHEX AI**
@@ -23,7 +25,7 @@ PLEASE JUST GIVE A STAR IF YOU WANNA FORK
 
 - 📫 How to reach me **nayakdebesh925@gmail.com**
 
-- ⚡ Fact   **I AM CONSIDERED AND CONFIGURENT WHEN IT COMES TO WORK**
+- ⚡ Fact     **I AM CONSIDERED AND CONFIGURENT WHEN IT COMES TO WORK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
