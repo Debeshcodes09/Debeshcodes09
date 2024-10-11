@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshcodes09&label=Profile%20views&color=0e75b6&style=flat" alt="debeshcodes09" /> </p>
 FOLLOW AND DO SUPPORT
+YOU CAN FREELY FORK IT IF YOU WANT 
+PLEASE JUST GIVE A STAR IF YOU WANNA FORK
 
 
 - 🔭 I’m currently working on **ATHEX AI**
