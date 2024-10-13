@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer And Learning Ethical Hacker , Open Source Intelligence</h3>
 
 Im Having some issues with this gif if anyone knows contact me
-<img align="right"alt="debeshcodes09"width=400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="right"alt="debeshcodes09"width=400 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debeshcodes09&label=Profile%20views&color=0e75b6&style=flat" alt="debeshcodes09" /> </p>
 FOLLOW AND DO SUPPORT
